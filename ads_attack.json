@@ -1,0 +1,32 @@
+{
+	"Iklan":
+  [
+    {
+      "status":"0",
+      "link":"https://play.google.com/store/apps/details?id=com.facebook.katana",
+      
+      "startappid":"",
+      
+      "bannerid":"ca-app-pub-3803044318753265/9581586793",
+      "interid":"ca-app-pub-3803044318753265/7433935607",
+      "nativeid":"ca-app-pub-3803044318753265/4329260110",
+      
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_native":"",
+      
+      "bannermenu":"true",
+      "bannercategory":"true",
+      "jumlahbanner":"3",
+      
+      "nativemode":"true",
+      "jumlahnative":"12",
+      
+      "jumlahinter":"3",
+      "detailmode":"true",
+      "setmode":"true",
+      "downloadmode":"true"
+
+    }
+  ]
+}
