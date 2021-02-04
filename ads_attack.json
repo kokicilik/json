@@ -2,7 +2,7 @@
 	"Iklan":
   [
     {
-      "status":"1",
+      "status":"0",
       "link":"https://play.google.com/store/apps/details?id=com.facebook.katana",
       
       "startappid":"",
@@ -11,9 +11,9 @@
       "interid":"ca-app-pub-3803044318753265/7433935607",
       "nativeid":"ca-app-pub-3803044318753265/4329260110",
       
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "mopub_native":"",
+      "mopub_banner":"bd9f139fcf7249b09bc22e9b929a6d57",
+      "mopub_inter":"05bf988660e6427d9aa9f8070450a353",
+      "mopub_native":"0a17dceb8b9d46e3ba9f30012146f2b5",
       
       "bannermenu":"true",
       "bannercategory":"true",
